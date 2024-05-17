@@ -1,11 +1,5 @@
 
 import java.io.*;
-
-/**
- *
- * @author julhan
- */
-
 public class FileMerge {
 
     public static void main(String[] args) {
